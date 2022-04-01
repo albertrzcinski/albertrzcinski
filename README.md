@@ -1,7 +1,6 @@
 ### Hi there, I'm Albert 👋
 A passionate frontend developer from Poland.
 
-- 🔭 I’m currently looking for a job
 - <img width="20" alt="FreeCodeCamp" title="FreeCodeCamp" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/freecodecamp.svg" /> I'm built some projects on FreeCodeCamp. Check out my <a href="https://www.freecodecamp.org/albertrzcinski"> profile</a>.
 
 
