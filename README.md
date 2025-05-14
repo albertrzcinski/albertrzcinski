@@ -1,8 +1,6 @@
 ### Hi there, I'm Albert 👋
 A passionate frontend developer from Poland. I'm built some projects on FreeCodeCamp. Check out my <a href="https://www.freecodecamp.org/albertrzcinski"> profile</a>.
 
-I'm glad to work at &nbsp; <a href="https://droplabs.pl/"> <img width="15" alt="Droplabs icon" title="Droplabs" src="https://avatars.githubusercontent.com/u/25704167?s=200&v=4" /> <b> Droplabs</b> </a>.
-
 You can write to me on &nbsp; 📫 albertrzcinski@gmail.com 
 
 ### I'm working with:
